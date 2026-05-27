@@ -31,18 +31,17 @@ interaktif bir masaüstü uygulamasıdır.
 - **Maven** - Proje yönetim aracı
 - **NetBeans IDE** - Geliştirme ortamı
 
-```
 
 ## Dosya Yapısı
 
 ```
-P2Oyun/
-├── Resimler/          # Adam asmaca resimleri (programatik olarak oluşturulur)
-└── TXTDosyalar/
-    ├── sifre.txt       # Kullanıcı şifresi
-    ├── kelimeler.txt   # 30 adet 6+ harfli kelime
-    ├── log.txt         # Giriş kayıtları
-    └── oyunlar.txt     # Oyun skorları
+  P2Oyun/
+  ├── Resimler/          # Adam asmaca resimleri
+  └── TXTDosyalar/
+      ├── sifre.txt       # Kullanıcı şifresi
+      ├── kelimeler.txt   # 30 adet 6+ harfli kelime
+      ├── log.txt         # Giriş kayıtları
+      └── oyunlar.txt     # Oyun skorları
 ```
 
 ## Platform Desteği
